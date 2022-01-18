@@ -18,6 +18,14 @@
             "name": "Torbidone Gianluca",
             "homepage": "https://..."
         }
-    ]
-
+    ],
+    "require": {
+        "php": ">=7.2",
+        "pumukit/pumukit": "^4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Pumukit\\PlayerKBundle\\": ""
+        }
+    }
 }
