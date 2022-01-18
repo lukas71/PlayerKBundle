@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Pumukit\PlayerBundle\Controller;
+namespace Pumukit\PlayerKBundle\Controller;
 
 use Pumukit\BasePlayerBundle\Controller\BasePlaylistController;
 use Pumukit\SchemaBundle\Document\EmbeddedBroadcast;

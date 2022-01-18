@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Pumukit\PlayerBundle\Controller;
+namespace Pumukit\PlayerKBundle\Controller;
 
 use Pumukit\BasePlayerBundle\Controller\BasePlayerController as BasePlayerControllero;
 use Pumukit\BasePlayerBundle\Services\IntroService;
